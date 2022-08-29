@@ -1,0 +1,4 @@
+fastapi[all]
+gdown
+onnxruntime
+pydload
